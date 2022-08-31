@@ -8,6 +8,8 @@ import { SharedService } from 'src/app/shared.service';
 })
 export class ShowDepComponent implements OnInit {
 
+  ModelTitle="";
+
   constructor(private service: SharedService) { }
 
   DepartmentList: any=[];
@@ -21,5 +23,8 @@ export class ShowDepComponent implements OnInit {
       this.DepartmentList=data;
     });
   }
+
+  addClick(){}
+  closeClick(){}
 
 }
