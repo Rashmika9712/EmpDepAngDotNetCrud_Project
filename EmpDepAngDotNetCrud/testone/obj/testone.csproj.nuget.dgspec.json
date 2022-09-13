@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Proj\\Angular + Asp .net\\EmpDepAngDotNetCrud\\EmpDepAngDotNetCrud\\testone\\testone.csproj": {}
+    "D:\\Common\\Projects\\.Net\\EmpDepAngDotNetCrud_Project\\EmpDepAngDotNetCrud\\testone\\testone.csproj": {}
   },
   "projects": {
-    "F:\\Proj\\Angular + Asp .net\\EmpDepAngDotNetCrud\\EmpDepAngDotNetCrud\\testone\\testone.csproj": {
+    "D:\\Common\\Projects\\.Net\\EmpDepAngDotNetCrud_Project\\EmpDepAngDotNetCrud\\testone\\testone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Proj\\Angular + Asp .net\\EmpDepAngDotNetCrud\\EmpDepAngDotNetCrud\\testone\\testone.csproj",
+        "projectUniqueName": "D:\\Common\\Projects\\.Net\\EmpDepAngDotNetCrud_Project\\EmpDepAngDotNetCrud\\testone\\testone.csproj",
         "projectName": "testone",
-        "projectPath": "F:\\Proj\\Angular + Asp .net\\EmpDepAngDotNetCrud\\EmpDepAngDotNetCrud\\testone\\testone.csproj",
-        "packagesPath": "C:\\Users\\Rashmika\\.nuget\\packages\\",
-        "outputPath": "F:\\Proj\\Angular + Asp .net\\EmpDepAngDotNetCrud\\EmpDepAngDotNetCrud\\testone\\obj\\",
+        "projectPath": "D:\\Common\\Projects\\.Net\\EmpDepAngDotNetCrud_Project\\EmpDepAngDotNetCrud\\testone\\testone.csproj",
+        "packagesPath": "C:\\Users\\RashmikaS\\.nuget\\packages\\",
+        "outputPath": "D:\\Common\\Projects\\.Net\\EmpDepAngDotNetCrud_Project\\EmpDepAngDotNetCrud\\testone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rashmika\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RashmikaS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
